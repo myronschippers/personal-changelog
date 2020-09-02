@@ -22,7 +22,7 @@ This is a personal changelog of my updates. Not everything is code. This is mean
   - React Native _[learn]_
   - Create MUI Theme Template _[build]_
   - Work on Manga Web Scrapper _[build]_
-  - Create Training for Chat App _[build & learn]_
+  - Create Training for Chat App _[build/learn]_
 
 ---
 
