@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a personal changelog of my updates. Not everything is code. This is meant to create visibility around the behaviors and habits for myself & those wanting to join in. Some of my goals for this challenge are listed below.
+A changelog of self growth and improvement. Recording my self growth for a period of 30 days. This is meant to be small 15 to 30 min spans of time spent doing these activities every day for the full 30 days.
 
 > Note: this log is starting as of Sept 1st, 2020
 

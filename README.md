@@ -13,6 +13,8 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 💻- Code - Building / Learning
 - 📚- Reading
 
+---
+
 ## Changelog List
 
 1. [Sept 2020](./CHANGELOG_SEPT_2020.md)
