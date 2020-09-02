@@ -28,13 +28,13 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ## Changelog by Day
 
-### Monday, Sept 1, 2020
+### Tuesday, Sept 1, 2020
 
 - 💻- Code, started this change log repo for the challenge
 - 💻- Working on [Chat App](https://github.com/myronschippers/chat-app-demo), themeing
 - 📚- Reading Manga, [A Returner's Magic Should be Special](https://manganelo.com/manga/zu917722) (_latest chapter_)
 
-### Tuesday, Sept 2, 2020
+### Wednesday, Sept 2, 2020
 
 - 📚- Code Reads, [Caching with Redis](https://www.codementor.io/@brainyfarm/caching-with-redis-node-js-example-h6o9ii72i)
 - 📚- Reading Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (_latest chapter_)
