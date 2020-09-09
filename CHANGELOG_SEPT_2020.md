@@ -55,6 +55,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 📚- Reading Manga, [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255) (_latest chapter_)
 - 💻- Brushing up on some Angular, [Todo List](https://github.com/myronschippers/ang-todo-list)
+- 💻- Starting the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt0) for Angular (_learning_)
 
 ---
 
