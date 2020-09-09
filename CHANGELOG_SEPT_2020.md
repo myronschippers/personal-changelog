@@ -40,6 +40,11 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- Reading Manga, [Solo Leveling](https://manganelo.com/manga/pn918005) (_latest chapter_)
 - 💻- Working on [Chat App](https://github.com/myronschippers/chat-app-demo), build out chat component and user list
 
+### Missed Thursday, Sept 3rd - Monday, Sept 7th
+
+- Holiday weekend
+- Will resume on the 8th
+
 ---
 
 ## Totals
