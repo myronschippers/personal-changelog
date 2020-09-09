@@ -45,9 +45,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - Holiday weekend
 - Will resume on the 8th
 
+### Tuesday, Sept 8th, 2020
+
+- 📚- Reading Manga, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229) (_latest chapter_)
+- 📚- Reading Manga, [A Returner's Magic Should be Special](https://manganelo.com/manga/zu917722) (_latest chapter_)
+- 💻- Learning, Binary Trees on [LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/94/trees/555/)
+
 ---
 
 ## Totals
 
-Days Completed: **2**
-Days Left: **28**
+Days Completed: **3**
+Days Left: **27**
