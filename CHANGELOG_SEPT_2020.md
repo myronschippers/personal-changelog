@@ -51,9 +51,14 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- Reading Manga, [A Returner's Magic Should be Special](https://manganelo.com/manga/zu917722) (_latest chapter_)
 - 💻- Learning, Binary Trees on [LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/94/trees/555/)
 
+### Wednesday, Sept 9th, 2020
+
+- 📚- Reading Manga, [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255) (_latest chapter_)
+- 💻- Brushing up on some Angular, [Todo List](https://github.com/myronschippers/ang-todo-list)
+
 ---
 
 ## Totals
 
-Days Completed: **3**
-Days Left: **27**
+Days Completed: **4**
+Days Left: **26**
