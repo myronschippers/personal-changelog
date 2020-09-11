@@ -57,6 +57,11 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Brushing up on some Angular, [Todo List](https://github.com/myronschippers/ang-todo-list)
 - 💻- Starting the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt0) for Angular (_learning_)
 
+### Thursday, Sept 10th, 2020
+
+- 💻- Continuing the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt2) for Angular (_learning_). Working through [step 2](https://angular.io/tutorial/toh-pt2), [step 3](https://angular.io/tutorial/toh-pt3), & [step 4](https://angular.io/tutorial/toh-pt4) of the tutorial.
+  - The work is being saved to my [Todo List](https://github.com/myronschippers/ang-todo-list) Repo
+
 ---
 
 ## Totals
