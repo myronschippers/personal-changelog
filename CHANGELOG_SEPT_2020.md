@@ -62,9 +62,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Continuing the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt2) for Angular (_learning_). Working through [step 2](https://angular.io/tutorial/toh-pt2), [step 3](https://angular.io/tutorial/toh-pt3), & [step 4](https://angular.io/tutorial/toh-pt4) of the tutorial.
   - The work is being saved to my [Todo List](https://github.com/myronschippers/ang-todo-list) Repo
 
+### Friday, Sept 11th, 2020
+
+- 💻- Continuing the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt4)
+  - Work saved to my [Todo List](https://github.com/myronschippers/ang-todo-list) repo
+- Working on the first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
+
 ---
 
 ## Totals
 
-Days Completed: **4**
-Days Left: **26**
+Days Completed: **5**
+Days Left: **25**
