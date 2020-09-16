@@ -82,6 +82,12 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻- Continuing the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt5), saved to my [Todo List](https://github.com/myronschippers/ang-todo-list) repo
 - 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
+- 💻- Learning, Binary Trees on [LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/94/trees/555/)
+
+### Tuesday, Sept 15th, 2020
+
+- 💻- Learning, Binary Trees on [LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/94/trees/555/)
+- 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
 ---
 
