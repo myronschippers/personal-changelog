@@ -1,4 +1,4 @@
-# Changelog for Personal Improvement
+# Personal Improvement Changelogs
 
 ## Overview
 
