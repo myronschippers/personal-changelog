@@ -131,6 +131,12 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - Completely slacking off, picking things up on Tuesday.
 
+### Tuesday, Sept 22nd, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Finishing the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt6), saved to my [Todo List](https://github.com/myronschippers/ang-todo-list) repo
+
 ---
 
 ## Totals
