@@ -109,9 +109,12 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Learning, Binary Trees on [LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/94/trees/555/)
 - 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
+---
 ### Wednesday, Sept 16th, 2020
 
 **Taking a break for an all day meeting**
+
+---
 
 ### Thursday, Sept 17th, 2020
 
@@ -127,12 +130,12 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Continuing the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt6), saved to my [Todo List](https://github.com/myronschippers/ang-todo-list) repo
 - 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
-
+---
 ### Friday, Sept 18th - Thursday, Sept 24th, 2020
 
 - Completely slacking off, picking things up on Friday, Sept 25th.
 
-
+---
 ### Friday, Sept 18th, 2020
 
 - 🍎- Drink No Soda, **SUCCESS**
