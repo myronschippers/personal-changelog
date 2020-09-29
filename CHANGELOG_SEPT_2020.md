@@ -131,12 +131,13 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
 ---
-### Friday, Sept 18th - Thursday, Sept 24th, 2020
+### Friday, Sept 18th - Saturday, Sept 27th, 2020
 
 - Completely slacking off, picking things up on Friday, Sept 25th.
 
 ---
-### Friday, Sept 18th, 2020
+
+### Monday, Sept 28th, 2020
 
 - 🍎- Drink No Soda, **SUCCESS**
 - 🍎- Eat No Fried Foods, **SUCCESS**
@@ -147,5 +148,5 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ## Totals
 
-Days Completed: **8**
-Days Left: **22**
+Days Completed: **13**
+Days Left: **17**
