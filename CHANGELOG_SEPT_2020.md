@@ -144,6 +144,12 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Finishing the [Tour of Heroes Tutorial](https://angular.io/tutorial/toh-pt6), saved to my [Todo List](https://github.com/myronschippers/ang-todo-list) repo
 - 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
+### Tuesday, Sept 29th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
+
 ---
 
 ## Totals
