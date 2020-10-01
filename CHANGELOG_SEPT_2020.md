@@ -160,5 +160,5 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ## Totals
 
-Days Completed: **13**
-Days Left: **17**
+Days Completed: **14**
+Days Left: **16**
