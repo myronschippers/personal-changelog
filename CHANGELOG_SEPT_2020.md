@@ -156,15 +156,28 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🍎- Eat No Fried Foods, **SUCCESS**
 - 💻- Starting layout pieces for Angular [Todo List](https://github.com/myronschippers/ang-todo-list) application
 
-### Thursday, Sept 31st, 2020
+### Thursday, Oct 1st, 2020
 
 - 🍎- Drink No Soda, **SUCCESS**
 - 🍎- Eat No Fried Foods, **SUCCESS**
 - 💻- Adding styling to support new layout for Angular [Todo List](https://github.com/myronschippers/ang-todo-list) application
 
+### Friday, Oct 2nd, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Adjusting global layout for Angular [Todo List](https://github.com/myronschippers/ang-todo-list) application
+
+### Saturday, Oct 3rd, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Route registration for [OAuth 2.0 Test](https://github.com/myronschippers/oauth2-demo) application
+- 💻- Reorganizing some file structure for the [Chat App](https://github.com/myronschippers/chat-app-demo) before starting recording
+
 ---
 
 ## Totals
 
-Days Completed: **15**
-Days Left: **15**
+Days Completed: **18**
+Days Left: **12**
