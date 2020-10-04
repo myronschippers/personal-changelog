@@ -175,6 +175,12 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Route registration for [OAuth 2.0 Test](https://github.com/myronschippers/oauth2-demo) application
 - 💻- Reorganizing some file structure for the [Chat App](https://github.com/myronschippers/chat-app-demo) before starting recording
 
+### Saturday, Oct 3rd, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Starting work on a custom Material-UI theme, [Frost](https://github.com/myronschippers/frost-mui-theme)
+
 ---
 
 ## Totals
