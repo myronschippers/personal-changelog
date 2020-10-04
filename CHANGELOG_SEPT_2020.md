@@ -156,9 +156,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🍎- Eat No Fried Foods, **SUCCESS**
 - 💻- Starting layout pieces for Angular [Todo List](https://github.com/myronschippers/ang-todo-list) application
 
+### Thursday, Sept 31st, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Adding styling to support new layout for Angular [Todo List](https://github.com/myronschippers/ang-todo-list) application
+
 ---
 
 ## Totals
 
-Days Completed: **14**
-Days Left: **16**
+Days Completed: **15**
+Days Left: **15**
