@@ -182,9 +182,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Starting work on a custom Material-UI theme, [Frost](https://github.com/myronschippers/frost-mui-theme)
 - 💻- Started an application for managing program resources, [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
 
+### Monday, Oct 5th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Stubbing in all potential pages for [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
+
 ---
 
 ## Totals
 
-Days Completed: **18**
-Days Left: **12**
+Days Completed: **19**
+Days Left: **11**
