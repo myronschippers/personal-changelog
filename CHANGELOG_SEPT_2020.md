@@ -194,9 +194,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🍎- Eat No Fried Foods, **SUCCESS**
 - 💻- Styling navigation for [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
 
+### Wednesday, Oct 7th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Adding material-ui components for the header in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
+
 ---
 
 ## Totals
 
-Days Completed: **20**
-Days Left: **10**
+Days Completed: **21**
+Days Left: **9**
