@@ -200,9 +200,21 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🍎- Eat No Fried Foods, **SUCCESS**
 - 💻- Adding material-ui components for the header in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
 
+### Thursday, Oct 8th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Creating new lesson, [jQuery Table](https://github.com/myronschippers/castor-jquery-salary-calculator)
+
+### Friday, Oct 9th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Wrapping up lesson today lesson, [jQuery Table](https://github.com/myronschippers/castor-jquery-salary-calculator)
+
 ---
 
 ## Totals
 
-Days Completed: **21**
-Days Left: **9**
+Days Completed: **23**
+Days Left: **7**
