@@ -213,8 +213,21 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Wrapping up lesson today lesson, [jQuery Table](https://github.com/myronschippers/castor-jquery-salary-calculator)
 
 ---
+### Saturday, Oct 10th, 2020
+
+- Missed a day. Very busy.
+
+---
+
+### Friday, Oct 9th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Setting up Front-End for Login in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
+
+---
 
 ## Totals
 
-Days Completed: **23**
-Days Left: **7**
+Days Completed: **24**
+Days Left: **6**
