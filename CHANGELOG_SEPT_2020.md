@@ -219,15 +219,21 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ---
 
-### Friday, Oct 9th, 2020
+### Sunday, Oct 11th, 2020
 
 - 🍎- Drink No Soda, **SUCCESS**
 - 🍎- Eat No Fried Foods, **SUCCESS**
 - 💻- Setting up Front-End for Login in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
 
+### Monday, Oct 12th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Using material-ui for Login page in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
+
 ---
 
 ## Totals
 
-Days Completed: **24**
-Days Left: **6**
+Days Completed: **25**
+Days Left: **5**
