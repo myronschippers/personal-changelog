@@ -249,9 +249,16 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🍎- Eat No Fried Foods, **SUCCESS**
 - 💻- Adding a Forgot Password page in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
 
+### Friday, Oct 30th, 2020
+
+- 🍎- Drink No Soda, **SUCCESS**
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Adding a Forgot Password page in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
+- 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
+
 ---
 
 ## Totals
 
-Days Completed: **28**
-Days Left: **2**
+Days Completed: **29**
+Days Left: **1**
