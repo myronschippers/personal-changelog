@@ -256,6 +256,11 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Adding a Forgot Password page in [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
 - 🖊- Continue writing, first chapter of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
+### Monday, Nov 2nd, 2020
+
+- 🍎- Eat No Fried Foods, **SUCCESS**
+- 💻- Adding passport and session middleware configurations to [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect) application
+
 ---
 
 ## Totals
