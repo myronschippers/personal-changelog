@@ -36,6 +36,11 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255), latest chapter
 - 📚- [Taming Master](https://manganelo.com/manga/ks924647)
 
+### Thursday, Nov 5th, 2020
+
+- 📚- [The Unsuccessful Yet Academically Unparalleled Sage](https://manganelo.com/chapter/ma920724/chapter_7), latest chapter
+- 📚- [Tensei Shitara Slime Datta Ken](https://manganelo.com/chapter/dnha19771568647794/chapter_76), latest chapter
+
 ---
 
 ## Totals
