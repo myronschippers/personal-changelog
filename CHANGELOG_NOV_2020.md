@@ -30,4 +30,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Wednesday, Nov 4, 2020
 
-- Coming Soon...
+- 💻- Making strategies into typescript for [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
+- 📚- [Solo Leveling](https://manganelo.com/manga/pn918005), latest chapter
+- 📚- [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229), latest chapter
+- 📚- [Star Martial God Technique](https://manganelo.com/manga/dtdc220351567737255), latest chapter
+- 📚- [Taming Master](https://manganelo.com/manga/ks924647)
+
+---
+
+## Totals
+
+Days Completed: **1**
+Days Left: **29**
