@@ -41,9 +41,13 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- [The Unsuccessful Yet Academically Unparalleled Sage](https://manganelo.com/chapter/ma920724/chapter_7), latest chapter
 - 📚- [Tensei Shitara Slime Datta Ken](https://manganelo.com/chapter/dnha19771568647794/chapter_76), latest chapter
 
+### Friday, Nov 6th, 2020
+
+- 💻- Starting [HackerRank Code Challenge](https://www.hackerrank.com/challenges/30-data-types/problem?h_r=next-challenge&h_v=zen)
+
 ---
 
 ## Totals
 
-Days Completed: **1**
-Days Left: **29**
+Days Completed: **3**
+Days Left: **27**
