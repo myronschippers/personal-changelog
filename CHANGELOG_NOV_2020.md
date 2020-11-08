@@ -44,10 +44,16 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Friday, Nov 6th, 2020
 
 - 💻- Starting [HackerRank Code Challenge](https://www.hackerrank.com/challenges/30-data-types/problem?h_r=next-challenge&h_v=zen)
+- 💻- typescript type cleanup for [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
+
+### Saturday, Nov 7th, 2020
+
+- 💻- completed Day 2 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-operators/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+- 💻- adding a user list for Admin Dashboard of [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
 
 ---
 
 ## Totals
 
-Days Completed: **3**
-Days Left: **27**
+Days Completed: **4**
+Days Left: **26**
