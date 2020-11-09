@@ -53,6 +53,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Sunday, Nov 8th, 2020
 - 💻- completed Day 3 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-conditional-statements/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+- 💻- completed Day 4 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
 - 💻- adding a user list for Admin Dashboard of [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
 
 ---
