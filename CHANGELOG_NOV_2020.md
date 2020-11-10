@@ -52,9 +52,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- adding a user list for Admin Dashboard of [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
 
 ### Sunday, Nov 8th, 2020
+
 - 💻- completed Day 3 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-conditional-statements/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
 - 💻- completed Day 4 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
 - 💻- adding a user list for Admin Dashboard of [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
+
+### Monday, Nov 9th, 2020
+
+- 💻- completed Day 5 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-loops/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+- 📚- [The Reincarnated Inferior Magic Swordsman](https://manganelo.com/manga/yk923891), latest chapter
 
 ---
 
