@@ -63,6 +63,10 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- [The Reincarnated Inferior Magic Swordsman](https://manganelo.com/manga/yk923891), latest chapter
 - 💻- showing user status and multi-selection of [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
 
+### Tuesday, Nov 10th, 2020
+
+- 💻- completed Day 6 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-review-loop/problem)
+
 ---
 
 ## Totals
