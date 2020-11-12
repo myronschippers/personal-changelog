@@ -74,6 +74,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- [Solo Leveling](https://manganelo.com/manga/pn918005), latest chapter
 - 📚- [The Reincarnated Inferior Magic Swordsman](https://manganelo.com/manga/yk923891), latest chapter
 - 📚- [I am the Sorcerer King](https://manganelo.com/manga/rx919523), latest chapter
+- 💻- creating separate UserListItem comp for [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
 
 ---
 
