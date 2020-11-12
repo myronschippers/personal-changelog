@@ -75,10 +75,11 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- [The Reincarnated Inferior Magic Swordsman](https://manganelo.com/manga/yk923891), latest chapter
 - 📚- [I am the Sorcerer King](https://manganelo.com/manga/rx919523), latest chapter
 - 💻- creating separate UserListItem comp for [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
+- 🖊- wrote chapter 1, page 2 of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
 ---
 
 ## Totals
 
-Days Completed: **5**
-Days Left: **25**
+Days Completed: **8**
+Days Left: **22**
