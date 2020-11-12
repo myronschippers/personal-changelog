@@ -67,6 +67,14 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻- completed Day 6 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-review-loop/problem)
 
+### Wednesday, Nov 11th, 2020
+
+- 💻- completed Day 7 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-arrays/problem?h_r=next-challenge&h_v=zen)
+- 📚- [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229), latest chapter
+- 📚- [Solo Leveling](https://manganelo.com/manga/pn918005), latest chapter
+- 📚- [The Reincarnated Inferior Magic Swordsman](https://manganelo.com/manga/yk923891), latest chapter
+- 📚- [I am the Sorcerer King](https://manganelo.com/manga/rx919523), latest chapter
+
 ---
 
 ## Totals
