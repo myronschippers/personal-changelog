@@ -77,6 +77,13 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- creating separate UserListItem comp for [Mind Grapes](https://github.com/myronschippers/mind-grapes-connect)
 - 🖊- wrote chapter 1, page 2 of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
+### Monday, Nov 16th, 2020
+
+- 💻- completed Day 8 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+- 📚- [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229), latest chapter 301.5
+- 📚- [Solo Leveling](https://manganelo.com/manga/pn918005), latest chapter 127
+- 📚- [The Great Mage Returns After 4000 Years](https://manganelo.com/manga/go922760), latest chapter 58- 🖊- wrote chapter 1, page 3 of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
+
 ---
 
 ## Totals
