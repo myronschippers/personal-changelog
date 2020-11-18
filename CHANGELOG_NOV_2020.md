@@ -84,9 +84,14 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- [Solo Leveling](https://manganelo.com/manga/pn918005), latest chapter 127
 - 📚- [The Great Mage Returns After 4000 Years](https://manganelo.com/manga/go922760), latest chapter 58- 🖊- wrote chapter 1, page 3 of [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
 
+### Tuesday, Nov 17th, 2020
+
+- 💻- completed Day 9 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-recursion/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+- 💻- completed Day 10 of [HakerRank Code Challenge](https://www.hackerrank.com/challenges/30-binary-numbers/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+
 ---
 
 ## Totals
 
-Days Completed: **9**
-Days Left: **21**
+Days Completed: **10**
+Days Left: **20**
