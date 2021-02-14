@@ -29,7 +29,11 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ## Logged Days
 
-### Friday, Feb 13, 2021
+### Friday, Feb 12, 2021
 
 - 💻 - [Algorithms and Data Structures](https://teamtreehouse.com/tracks/algorithms-and-data-structures), Introduction
 - 💻 - Setting up a new development machine and [recording installation](https://github.com/myronschippers/installation-guide)
+
+### Saturday, Feb 13, 2021
+
+- 💻 - Algorithms, Complete introduction and start [Efficiency of an Algorithm](https://teamtreehouse.com/library/efficiency-of-an-algorithm)
