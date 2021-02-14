@@ -15,7 +15,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Goals
 
-- 🍎 - Reduced sugars and no sodas startinf on Feb 16th
+- 🍎 - Reduced sugars and no sodas starting on Feb 16th
 - 📚 - Reading - 3+ Tech Articles per week
 - 🖊 - Work on first chapter to the Dragon Born story (goal: minimum 2 pages per week)
 - 💻 - Code - Building / Learning (in priority order):
