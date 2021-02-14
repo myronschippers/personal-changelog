@@ -37,3 +37,4 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Saturday, Feb 13, 2021
 
 - 💻 - Algorithms, Complete introduction and start [Efficiency of an Algorithm](https://teamtreehouse.com/library/efficiency-of-an-algorithm)
+- 🖊 - Cleaning up the [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story to prep for continuing the story
