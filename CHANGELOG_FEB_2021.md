@@ -38,3 +38,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - Algorithms, Complete introduction and start [Efficiency of an Algorithm](https://teamtreehouse.com/library/efficiency-of-an-algorithm)
 - 🖊 - Cleaning up the [Dragon Born](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing) story to prep for continuing the story
+
+### Sunday, Feb 14, 2021
+
+- 📚 - Researching Headless CMS; [different options](https://jamstack.org/headless-cms/), [explanation of a headless CMS](https://www.storyblok.com/tp/headless-cms-explained)
+- 📚 - [Jamstack](https://jamstack.org/what-is-jamstack/)
