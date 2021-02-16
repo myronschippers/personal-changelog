@@ -19,11 +19,11 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚 - Reading - 3+ Tech Articles per week
 - 🖊 - Work on first chapter to the Dragon Born story (goal: minimum 2 pages per week)
 - 💻 - Code - Building / Learning (in priority order):
-  - Computer Science course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/algorithms-and-data-structures) _[learn]_
-  - Full Stack Foundations course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/full-stack-foundations) _[learn]_
-  - Build out the Mind Grapes App for tracking training _[build]_
-  - Python course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/beginning-python) _[learn]_
-  - Java Web Dev course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/java-web-development) _[learn]_
+    - Computer Science course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/algorithms-and-data-structures) _[learn]_
+    - Full Stack Foundations course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/full-stack-foundations) _[learn]_
+    - Build out the Mind Grapes App for tracking training _[build]_
+    - Python course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/beginning-python) _[learn]_
+    - Java Web Dev course on TeamTreeHouse, [course link](https://teamtreehouse.com/tracks/java-web-development) _[learn]_
 
 ---
 
@@ -43,3 +43,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 📚 - Researching Headless CMS; [different options](https://jamstack.org/headless-cms/), [explanation of a headless CMS](https://www.storyblok.com/tp/headless-cms-explained)
 - 📚 - [Jamstack](https://jamstack.org/what-is-jamstack/)
+
+### Monday, Feb 15, 2021
+
+- 💻 - Algorithms, finishing [Efficiency of an Algorithm](https://teamtreehouse.com/library/efficiency-of-an-algorithm)
+- 📚 - Researching different headless CMS
+    - [Graph CMS](https://graphcms.com/)
+    - [Contentful](https://www.contentful.com/)
+    - [Butter CMS](https://buttercms.com/)
+    - [Craft CMS](https://craftcms.com/pricing)
+    - [Strapi](https://strapi.io/pricing)
+    - [Storyblok](https://www.storyblok.com/pricing)
+    - [Agility](https://agilitycms.com/pricing)
