@@ -55,3 +55,9 @@ A changelog of self growth and improvement. Recording my self growth for a perio
     - [Strapi](https://strapi.io/pricing)
     - [Storyblok](https://www.storyblok.com/pricing)
     - [Agility](https://agilitycms.com/pricing)
+
+### Tuesday, Wednesday, Thursday, & Friday (Feb 16 - 19)
+
+- getting setup at a new job back to self improvement this weekend
+
+### Saturday, Feb 20, 2021
