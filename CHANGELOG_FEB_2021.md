@@ -68,3 +68,4 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Sunday, Feb 21, 2021
 
 - 💻 - Introduction to Algorithms, continuing [Linear Search in Code](https://teamtreehouse.com/library/linear-search-in-code)
+- 💻 - Cleaning up [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
