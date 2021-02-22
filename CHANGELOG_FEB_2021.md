@@ -64,3 +64,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - Introduction to Algorithms, starting [Linear Search in Code](https://teamtreehouse.com/library/linear-search-in-code)
 - 📚 - [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
+
+### Sunday, Feb 21, 2021
+
+- 💻 - Introduction to Algorithms, continuing [Linear Search in Code](https://teamtreehouse.com/library/linear-search-in-code)
