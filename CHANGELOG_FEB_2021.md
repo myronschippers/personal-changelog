@@ -61,3 +61,6 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - getting setup at a new job back to self improvement this weekend
 
 ### Saturday, Feb 20, 2021
+
+- 💻 - Introduction to Algorithms, completing [Linear Search in Code](https://teamtreehouse.com/library/linear-search-in-code)
+- 📚 - [The right and wrong way to set Python 3 as default on a Mac](https://opensource.com/article/19/5/python-3-default-mac)
