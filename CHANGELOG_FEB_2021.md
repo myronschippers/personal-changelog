@@ -69,3 +69,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - Introduction to Algorithms, continuing [Linear Search in Code](https://teamtreehouse.com/library/linear-search-in-code)
 - 💻 - Cleaning up [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+
+### Monday, Feb 22, 2021
+
+- 📚 - Updating [installation instructions](https://github.com/myronschippers/installation-guide) for error with pyenv install
