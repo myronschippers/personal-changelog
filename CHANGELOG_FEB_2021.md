@@ -81,8 +81,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Wednesday, Feb 24, 2021
 
-- 💻 - Diving API endpoint for getting pages in a chapter with [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 💻 - Diving into API endpoint for getting pages in a chapter with [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 
-### Thursday, Feb 24, 2021
+### Thursday, Feb 25, 2021
 
 - 💻 - Creating query to insert pages for chapter & saving images to server folder, [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
