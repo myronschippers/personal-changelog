@@ -74,3 +74,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 📚 - Updating [installation instructions](https://github.com/myronschippers/installation-guide) for error with pyenv install
 - 💻 - Testing endpoints for [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+
+### Tuesday, Feb 23, 2021
+
+- 💻 - Looking into endpoint for getting series chapters in [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
