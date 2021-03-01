@@ -90,3 +90,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Friday, Feb 26, 2021
 
 - 💻 - Creating query to insert pages for chapter & saving images to server folder, [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+
+### Monday, March 1, 2021
+
+- 💻 - Cleaning up POST for saving pages to the DATABASE, [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+- 💻 - Sage page image files for specific chapter, [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
