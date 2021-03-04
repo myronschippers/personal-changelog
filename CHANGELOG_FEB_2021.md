@@ -106,3 +106,4 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻 - Continuing the Algorithms tutorial, [Linear Search in Code](https://teamtreehouse.com/library/linear-search-in-code)
 - 💻 - Code samples of search algorithms, [Linear and Binary Search](https://github.com/myronschippers/algorithm-study)
     - [Linear Search Implementations](https://teamtreehouse.com/library/introduction-to-algorithms/algorithms-in-code/linear-search-implementations)
+    - [Binary Search Implementations](https://teamtreehouse.com/library/introduction-to-algorithms/algorithms-in-code/binary-search-implementations)
