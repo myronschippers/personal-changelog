@@ -100,3 +100,9 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - Attempting download of chapter pages, [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
 - 📚 - Looking into an image cdn service, [Sirv](https://sirv.com/)
+
+### Wednesday, March 3, 2021
+
+- 💻 - Continuing the Algorithms tutorial, [Linear Search in Code](https://teamtreehouse.com/library/linear-search-in-code)
+- 💻 - Code samples of search algorithms, [Linear and Binary Search](https://github.com/myronschippers/algorithm-study)
+    - [Linear Search Implementations](https://teamtreehouse.com/library/introduction-to-algorithms/algorithms-in-code/linear-search-implementations)
