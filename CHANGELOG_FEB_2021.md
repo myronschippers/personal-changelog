@@ -107,3 +107,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻 - Code samples of search algorithms, [Linear and Binary Search](https://github.com/myronschippers/algorithm-study)
     - [Linear Search Implementations](https://teamtreehouse.com/library/introduction-to-algorithms/algorithms-in-code/linear-search-implementations)
     - [Binary Search Implementations](https://teamtreehouse.com/library/introduction-to-algorithms/algorithms-in-code/binary-search-implementations)
+
+### Friday, March 5, 2021
+
+- 💻 - Trying to get the image download for pages, [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
