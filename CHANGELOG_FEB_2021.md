@@ -111,3 +111,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Friday, March 5, 2021
 
 - 💻 - Trying to get the image download for pages, [Manga Scraper](https://github.com/myronschippers/manga-web-scraper)
+
+### Monday, March 8, 2021
+
+- 💻 - Finish Recursion and Space Complexity, [Algorithms in Team Treehouse](https://teamtreehouse.com/library/introduction-to-algorithms/recursion-and-space-complexity/recap-recursion-and-space-complexity)
