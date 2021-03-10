@@ -115,3 +115,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Monday, March 8, 2021
 
 - 💻 - Finish Recursion and Space Complexity, [Algorithms in Team Treehouse](https://teamtreehouse.com/library/introduction-to-algorithms/recursion-and-space-complexity/recap-recursion-and-space-complexity)
+
+### Tuesday, March 9, 2021
+
+- 💻 - Working on a carousel/slideshow, [Tabbed Slideshow](https://codesandbox.io/s/hungry-hamilton-weo31)
