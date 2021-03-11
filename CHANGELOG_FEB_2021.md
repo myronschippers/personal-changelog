@@ -119,3 +119,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Tuesday, March 9, 2021
 
 - 💻 - Working on a carousel/slideshow, [Tabbed Slideshow](https://codesandbox.io/s/hungry-hamilton-weo31)
+
+### Wednesday, March 10, 2021
+
+- 💻 - Configuring a new Python App for testing out python, [Algorithm Study](https://github.com/myronschippers/algorithm-study)
