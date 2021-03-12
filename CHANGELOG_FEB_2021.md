@@ -123,3 +123,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Wednesday, March 10, 2021
 
 - 💻 - Configuring a new Python App for testing out python, [Algorithm Study](https://github.com/myronschippers/algorithm-study)
+
+### Thursday, March 11, 2021
+
+- 💻 - Continuing the Algorithms track, [Introduction to Data Structures](https://teamtreehouse.com/library/array-search-insert-and-delete)
+- 💻 - Adding notes and code samples from Algorithms exercise, [Algorithm Study](https://github.com/myronschippers/algorithm-study)
