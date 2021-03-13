@@ -128,3 +128,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - Continuing the Algorithms track, [Introduction to Data Structures](https://teamtreehouse.com/library/array-search-insert-and-delete)
 - 💻 - Adding notes and code samples from Algorithms exercise, [Algorithm Study](https://github.com/myronschippers/algorithm-study)
+
+### Friday, March 12, 2021
+
+- 💻 - Continuing the Algorithms track, [Introduction to Data Structures](https://teamtreehouse.com/library/array-search-insert-and-delete)
