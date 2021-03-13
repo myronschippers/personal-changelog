@@ -132,3 +132,4 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Friday, March 12, 2021
 
 - 💻 - Continuing the Algorithms track, [Introduction to Data Structures](https://teamtreehouse.com/library/array-search-insert-and-delete)
+- 📚 - Researching [NestJS](https://nestjs.com/)
