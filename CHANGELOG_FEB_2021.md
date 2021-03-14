@@ -134,3 +134,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻 - Continuing the Algorithms track, [Introduction to Data Structures](https://teamtreehouse.com/library/array-search-insert-and-delete)
 - 📚 - starting research for [WerewolfJS](https://github.com/myronschippers/werewolf-js)
 - 📚 - Researching [NestJS](https://nestjs.com/)
+
+### Saturday, March 13, 2021
+
+- 💻 - swapping parcel-bundler for webpack, [WerewolfJS](https://github.com/myronschippers/werewolf-js)
