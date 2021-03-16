@@ -143,3 +143,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - working on the configuration for webpack, [WerewolfJS](https://github.com/myronschippers/werewolf-js)
 - 📚 - researching JS/TS bundlers, [Comparing bundlers: Webpack, Rollup, & Parcel](https://medium.com/js-imaginea/comparing-bundlers-webpack-rollup-parcel-f8f5dc609cfd#:~:text=There%20is%20a%20slight%20difference,resolve%20or%20path.)
+
+### Monday, March 15, 2021
+
+- 💻 - start refactor of webpack build system, [WerewolfJS](https://github.com/myronschippers/werewolf-js)
