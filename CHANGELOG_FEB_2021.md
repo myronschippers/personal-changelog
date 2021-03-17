@@ -147,3 +147,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Monday, March 15, 2021
 
 - 💻 - start refactor of webpack build system, [WerewolfJS](https://github.com/myronschippers/werewolf-js)
+
+### Tuesday, March 16, 2021
+
+- 💻 - refining the build to output a compiled TS bundle, [WerewolfJS](https://github.com/myronschippers/werewolf-js)
