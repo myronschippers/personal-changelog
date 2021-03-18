@@ -151,3 +151,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Tuesday, March 16, 2021
 
 - 💻 - refining the build to output a compiled TS bundle, [WerewolfJS](https://github.com/myronschippers/werewolf-js)
+
+### Wednesday, March 17, 2021
+
+- 💻 - starting a new project to experiment with interactive layouts, [Series Planner](https://github.com/myronschippers/series-planner)
+- 📚 - looking up some animation libraries for react; [React Spring](https://www.react-spring.io/docs/hooks/examples), [Framer Motion](https://www.framer.com/motion/), & [React Transition Group](https://reactcommunity.org/react-transition-group/)
