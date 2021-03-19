@@ -156,3 +156,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - starting a new project to experiment with interactive layouts, [Series Planner](https://github.com/myronschippers/series-planner)
 - 📚 - looking up some animation libraries for react; [React Spring](https://www.react-spring.io/docs/hooks/examples), [Framer Motion](https://www.framer.com/motion/), & [React Transition Group](https://reactcommunity.org/react-transition-group/)
+
+### Thursday, March 18, 2021
+
+- 💻 - setting up custom theming, [Series Planner](https://github.com/myronschippers/series-planner)
