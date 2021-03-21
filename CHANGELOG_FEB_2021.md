@@ -160,3 +160,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Thursday, March 18, 2021
 
 - 💻 - setting up custom theming, [Series Planner](https://github.com/myronschippers/series-planner)
+
+### Saturday, March 20, 2021
+
+- 💻 - adding animated transitions for adding page layouts to the view, [Series Planner](https://github.com/myronschippers/series-planner)
