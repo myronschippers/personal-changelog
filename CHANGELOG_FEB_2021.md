@@ -164,3 +164,10 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Saturday, March 20, 2021
 
 - 💻 - adding animated transitions for adding page layouts to the view, [Series Planner](https://github.com/myronschippers/series-planner)
+
+### Sunday, March 21, 2021
+
+- 💻 - testing out adding layout elements, [Series Planner](https://github.com/myronschippers/series-planner)
+- 🍎 - 50 Push Ups
+- 🍎 - Walked for 1 hour
+- 📚 - looking through creative for my next video series, a full Todo Application build out
