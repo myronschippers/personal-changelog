@@ -171,3 +171,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🍎 - 50 Push Ups
 - 🍎 - Walked for 1 hour
 - 📚 - looking through creative for my next video series, a full Todo Application build out
+
+### Monday, March 22, 2021
+
+- 💻 - made some hover state edits for a request on the [Material-UI Series](https://github.com/myronschippers/material-ui-full-demo/tree/feature-delete-hover) for the Chip Delete icon
+- 📚 - shot content [video showing](https://www.youtube.com/watch?v=Q5WpfY9VVhA) how to style the hover state of the delete icon on a Chip component in Material-UI
