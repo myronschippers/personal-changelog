@@ -168,7 +168,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Sunday, March 21, 2021
 
 - 💻 - testing out adding layout elements, [Series Planner](https://github.com/myronschippers/series-planner)
-- 🍎 - 50 Push Ups
+- 🍎 - 35 Push Ups
 - 🍎 - Walked for 1 hour
 - 📚 - looking through creative for my next video series, a full Todo Application build out
 
@@ -176,3 +176,10 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 💻 - made some hover state edits for a request on the [Material-UI Series](https://github.com/myronschippers/material-ui-full-demo/tree/feature-delete-hover) for the Chip Delete icon
 - 📚 - shot content [video showing](https://www.youtube.com/watch?v=Q5WpfY9VVhA) how to style the hover state of the delete icon on a Chip component in Material-UI
+
+### Tuesday, March 23, 2021
+
+- 🍎 - 30 Push Ups
+- 🖊 - started planning [weekly video series](https://docs.google.com/document/d/1YqJyhgsfTKa2fIWLpQnhwD1Srbci7RhVuuJfL8fKPbE/edit?usp=sharing), building a full stack application
+- 🖊 - creating the [trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) to track the tasks for the video series
+- 🖊 - finishing off page 3 of [Dragon Born, book 1](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
