@@ -183,3 +183,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 🖊 - started planning [weekly video series](https://docs.google.com/document/d/1YqJyhgsfTKa2fIWLpQnhwD1Srbci7RhVuuJfL8fKPbE/edit?usp=sharing), building a full stack application
 - 🖊 - creating the [trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) to track the tasks for the video series
 - 🖊 - finishing off page 3 of [Dragon Born, book 1](https://docs.google.com/document/d/1pg2ppQ2P12DnF0DVMgQyhgfD2YStzUblzkLQP41Kjhw/edit?usp=sharing)
+
+### Wednesday, March 24, 2021
+
+- 📚 - Reading up on [Nest.js with Postgres](https://medium.com/@gausmann.simon/nestjs-typeorm-and-postgresql-full-example-development-and-project-setup-working-with-database-c1a2b1b11b8f) as well as reviewing of the [Nest.js Documentation for connecting to Databases](https://docs.nestjs.com/techniques/database)
+- 🖊 - start creating [trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) tasks for the Todo App Video Series planning
