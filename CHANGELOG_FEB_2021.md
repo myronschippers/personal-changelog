@@ -188,3 +188,12 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 📚 - Reading up on [Nest.js with Postgres](https://medium.com/@gausmann.simon/nestjs-typeorm-and-postgresql-full-example-development-and-project-setup-working-with-database-c1a2b1b11b8f) as well as reviewing of the [Nest.js Documentation for connecting to Databases](https://docs.nestjs.com/techniques/database)
 - 🖊 - start creating [trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) tasks for the Todo App Video Series planning
+
+### Thursday, March 25, 2021
+
+- 🖊 - creating [trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) card covers and some initial MVP tasks
+
+### Friday, March 26. 2021
+
+- 📚 - checking out article with architectural information on [Nest.js with React Part.1](https://auth0.com/blog/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-1/) & [Nest.js with React Part.2](https://auth0.com/blog/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-2/)
+- 🖊 - creating card templates for [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) and fleshing out some architecture cards for project setup
