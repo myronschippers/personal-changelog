@@ -197,3 +197,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 📚 - checking out article with architectural information on [Nest.js with React Part.1](https://auth0.com/blog/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-1/) & [Nest.js with React Part.2](https://auth0.com/blog/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-2/)
 - 🖊 - creating card templates for [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) and fleshing out some architecture cards for project setup
+
+### Saturday, March 27. 2021
+
+- 🖊 - prepping card details on [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) for the first video in the video series
+- 🍎 - 30 Push Ups
