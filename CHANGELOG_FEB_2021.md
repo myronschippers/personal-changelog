@@ -202,3 +202,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 🖊 - prepping card details on [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack) for the first video in the video series
 - 🍎 - 30 Push Ups
+
+### Tuesday, March 30. 2021
+
+- 🍎 - 30 Push Ups
+- 🖊 - adding details for MVP tasks on [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack)
