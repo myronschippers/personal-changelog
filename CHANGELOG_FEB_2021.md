@@ -207,3 +207,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 🍎 - 30 Push Ups
 - 🖊 - adding details for MVP tasks on [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack)
+
+### Wednesday, March 31, 2021
+
+- experimenting with [TS Unit Test Workflow](https://github.com/myronschippers/ts-workflow)
