@@ -210,4 +210,10 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Wednesday, March 31, 2021
 
-- experimenting with [TS Unit Test Workflow](https://github.com/myronschippers/ts-workflow)
+- 💻 - experimenting with [TS Unit Test Workflow](https://github.com/myronschippers/ts-workflow)
+
+### Thursday, April 1, 2021
+
+- 📚 - researching [Google Authentication with NestJS](https://dev.to/imichaelowolabi/how-to-implement-login-with-google-in-nest-js-2aoa)
+- 💻 - testing out some configuration options with [TS Unit Test Workflow](https://github.com/myronschippers/ts-workflow) project
+- 🖊 - adding details for MVP tasks on [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack)
