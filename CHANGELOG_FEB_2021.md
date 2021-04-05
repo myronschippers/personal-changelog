@@ -221,3 +221,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Friday, April 2, 2021
 
 - 🖊 - adding details for MVP tasks on [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack)
+
+### Sunday, April 4, 2021
+
+- 🖊 - adding details for MVP tasks on [Todo App Video Series trello board](https://trello.com/b/ffd8kANm/todo-js-full-stack)
